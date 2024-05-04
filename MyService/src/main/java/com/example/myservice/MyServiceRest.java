@@ -8,7 +8,7 @@ public class MyServiceRest {
 
     @GetMapping("/")
     public String sayHello(){
-        return "Hello";
+        return "Coucou c'est nous Sarah KASDI et Badra AOUMEUR.";
     }
 
 }
